@@ -39,7 +39,7 @@ Sistem Informasi Bank Sampah ini dikembangkan untuk mempermudah pengelolaan mana
 | **Puput Lestari** |
 | :---: |
 | [![GitHub](https://img.shields.io/badge/GitHub-Puputlestarii-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Puputlestarii) |
-| *Mahasiswa / Pengembang Sistem Informasi Bank Sampah* |
+| *Pengembang Sistem Informasi Bank Sampah* |
 
 </div>
 
