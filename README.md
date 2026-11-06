@@ -2,9 +2,9 @@
 
 # ♻️ Sistem Informasi Bank Sampah
 
-[![PHP](https://img.shields.io/badge/PHP-8.2%2B-blue?style=for-the-badge&logo=php)](https://php.net/)
-[![CodeIgniter](https://img.shields.io/badge/CodeIgniter-4-red?style=for-the-badge&logo=codeigniter)](https://codeigniter.com/)
-[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)]()
+[![PHP Version](https://img.shields.io/badge/PHP-8.2%2B-blue)](https://php.net/)
+[![CodeIgniter](https://img.shields.io/badge/CodeIgniter-4-red)](https://codeigniter.com/)
+[![Status](https://img.shields.io/badge/Status-Active-success)](https://github.com/Puputlestarii/sistem-informasi-bank-sampah)
 
 *Aplikasi berbasis web untuk pengelolaan sampah, pencatatan nasabah, dan transaksi tabungan sampah secara digital.*
 
@@ -22,12 +22,10 @@ Sistem Informasi Bank Sampah ini dikembangkan untuk mempermudah pengelolaan mana
 * 📊 **Laporan & Dashboard**: Rekapitulasi data transaksi harian, bulanan, dan tahunan untuk admin.
 
 ## 🛠️ Teknologi yang Digunakan
-* **Backend:** PHP 8.2+[cite: 8]
+* **Backend:** PHP 8.2+
 * **Framework:** CodeIgniter 4
 * **Database:** MySQL
 * **Frontend:** Bootstrap / CSS Framework
 
-## ⚙️ Cara Menjalankan Proyek
-1. Clone repository ini ke folder `htdocs` XAMPP Anda:
-   ```bash
-   git clone [https://github.com/Puputlestarii/sistem-informasi-bank-sampah.git](https://github.com/Puputlestarii/sistem-informasi-bank-sampah.git)
+---
+<p align="center">Dibuat dengan ❤️ oleh Puput Lestari</p>
