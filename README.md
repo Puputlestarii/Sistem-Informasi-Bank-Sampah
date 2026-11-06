@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
@@ -67,3 +68,19 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - json (enabled by default - don't turn it off)
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php) if you plan to use MySQL
 - [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
+=======
+# Sistem-Informasi-Bank-Sampah
+>>>>>>> dda82a3ffb4b6225ec6f65e6e58554897681cf98
+# Sistem Informasi Bank Sampah
+
+Sistem Informasi Bank Sampah berbasis web yang dibangun menggunakan framework PHP CodeIgniter 4.
+
+## Fitur Utama
+* Manajemen Data Nasabah
+* Pengelolaan Kategori Sampah
+* Pencatatan Transaksi / Permintaan Penjemputan Sampah
+* Dashboard Operator dan Admin
+
+## Persyaratan Server
+* PHP versi 8.2 atau yang lebih baru
+* Ekstensi PHP: `intl`, `mbstring`, `json`, `mysqlnd`, `libcurl`
